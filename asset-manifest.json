@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.997d678e.css",
+    "main.js": "/static/js/main.a7bcc086.js",
+    "static/js/453.63261c35.chunk.js": "/static/js/453.63261c35.chunk.js",
+    "static/media/photo.jpg": "/static/media/photo.a65bbb4a90c5943d1ac9.jpg",
+    "static/media/Amiri-Bold.ttf": "/static/media/Amiri-Bold.b2f7400dbb749bb3d119.ttf",
+    "index.html": "/index.html",
+    "main.997d678e.css.map": "/static/css/main.997d678e.css.map",
+    "main.a7bcc086.js.map": "/static/js/main.a7bcc086.js.map",
+    "453.63261c35.chunk.js.map": "/static/js/453.63261c35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.997d678e.css",
+    "static/js/main.a7bcc086.js"
+  ]
+}
